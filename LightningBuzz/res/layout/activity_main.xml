@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/txtIP" />
+
+    <EditText
+        android:id="@+id/editTextServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TextView01"
+        android:ems="10"
+        android:inputType="text"
+        android:text="10.201.4.1"
+        android:width="150dp" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/EditTextPort"
+        android:text="@string/txtUser" />
+
+    <EditText
+        android:id="@+id/EditTextUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/editTextServer"
+        android:layout_below="@+id/textView1"
+        android:ems="10"
+        android:inputType="text"
+        android:width="100dp" />
+
+    <Button
+        android:id="@+id/ButtonStop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/EditTextMsg"
+        android:text="@string/txtRegister"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/ButtonBack1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ButtonStop"
+        android:text="@string/txtBack1"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/ButtonBack2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ButtonBack1"
+        android:layout_below="@+id/ButtonBack1"
+        android:text="@string/txtBack2"
+        android:textSize="17sp" />
+
+    <EditText
+        android:id="@+id/EditTextMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/EditTextUser"
+        android:layout_alignBottom="@+id/EditTextUser"
+        android:layout_alignLeft="@+id/TextView03"
+        android:layout_alignRight="@+id/EditTextPort"
+        android:ems="10"
+        android:inputType="text"
+        android:width="100dp" />
+
+    <EditText
+        android:id="@+id/EditTextPort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/TextView02"
+        android:layout_below="@+id/TextView02"
+        android:ems="10"
+        android:inputType="text"
+        android:text="5000"
+        android:width="100dp" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/EditTextMsg"
+        android:layout_toRightOf="@+id/EditTextUser"
+        android:text="@string/txtKey" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/editTextServer"
+        android:layout_alignLeft="@+id/TextView03"
+        android:text="@string/txtPort" />
+
+</RelativeLayout>

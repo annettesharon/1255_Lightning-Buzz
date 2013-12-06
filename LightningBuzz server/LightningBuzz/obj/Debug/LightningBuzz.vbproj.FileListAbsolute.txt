@@ -1,0 +1,39 @@
+c:\users\ashu\documents\visual studio 2012\Projects\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe.config
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.pdb
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.xml
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.AdminForm.resources
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.Resources.resources
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.vbproj.GenerateResource.Cache
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.exe
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.xml
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.pdb
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.ViewerForm.resources
+F:\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe.config
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.exe
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.xml
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.pdb
+F:\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe
+F:\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.pdb
+F:\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.xml
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.AdminForm.resources
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.Resources.resources
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.ViewerForm.resources
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.vbproj.GenerateResource.Cache
+F:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.SetBuzzerAnswer.resources
+H:\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe.config
+H:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.xml
+H:\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.pdb
+C:\Users\Ashu\Documents\Visual Studio 2012\Projects\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.SetBuzzerAnswer.resources
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe.config
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.exe
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.xml
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.pdb
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.exe
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.pdb
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\bin\Debug\LightningBuzz.xml
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.AdminForm.resources
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.Resources.resources
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.SetBuzzerAnswer.resources
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.ViewerForm.resources
+E:\SHARON\final sketch it\Lightning buzz\symp\LightningBuzz\LightningBuzz\obj\Debug\LightningBuzz.vbproj.GenerateResource.Cache
